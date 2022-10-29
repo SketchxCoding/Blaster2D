@@ -9,62 +9,62 @@ const skins = [
   {
     id: 1,
     url: "skull",
-    cost: 1000
+    cost: 120
   },
   {
     id: 2,
     url: "smileyface",
-    cost: 250
+    cost: 110
   },
   {
     id: 3,
     url: "target",
-    cost: 200
+    cost: 100
   },
   {
     id: 4,
     url: "basketball",
-    cost: 500
+    cost: 90
   },
   {
     id: 5,
     url: "sunglasses",
-    cost: 2000
+    cost: 80
   },
   {
     id: 6,
     url: "thumbsup",
-    cost: 200
+    cost: 70
   },
   {
     id: 7,
     url: "expressionless",
-    cost: 300
+    cost: 60
   },
   {
     id: 8,
     url: "magician",
-    cost: 800
+    cost: 50
   },
   {
     id: 9,
     url: "lightning",
-    cost: 300
+    cost: 40
   },
   {
     id: 10,
     url: "crown",
-    cost: 3000
+    cost: 30
   },
   {
     id: 11,
     url: "cap",
-    cost: 900
+    cost: 20
   },
   {
     id: 12,
     url: "questionmark",
-    cost: 500
+    cost: 10
   }
 ];
 
